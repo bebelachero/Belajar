@@ -1,0 +1,44 @@
+.header{
+	background: green;
+	/*height: 50px;*/
+	margin-bottom:10px;
+	padding: 2px 10px;
+}
+.box{ 
+	 background: #fff; 
+	 width: 90%; 
+	 margin: 10px auto; 
+ } 
+.clear{
+	clear: both;
+}
+.badan{
+	height: 450px;
+}
+ .badan .konten{
+	background: orange;
+	float: left;
+	margin-bottom:10px;
+	margin-right:10px;
+	width: 48%;
+	height: 100%;
+}
+.badan .sidebar{
+	background: red;
+	float: left;
+	height: 50%;
+	width: 50%;	
+	margin-bottom:10px;
+}
+.badan .ads{
+	background: green;
+	float: left;
+	height: 25%;
+	width: 50%;	
+}
+.footer{
+	width: 100%;
+	margin:0 auto;
+	padding: 10px;
+	background:purple;
+}
